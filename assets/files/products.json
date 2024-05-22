@@ -1,0 +1,116 @@
+[
+    {
+      "id": 1,
+      "title": "Thread",
+      "description": "HARD SEWING THREAD 5000",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 24,
+      "brand": "Caboodle_Textiles",
+      "category": "Basic_Garments_Accessories",
+      "thumbnail": "https://ykkasia.com/wp-content/uploads/2022/03/photo-zipper101-types-of-zippers-2-400x400-1.jpg",
+      "images": [
+        "https://ykkasia.com/wp-content/uploads/2022/03/photo-zipper101-types-of-zippers-2-400x400-1.jpg",
+        "https://ykkasia.com/wp-content/uploads/2022/03/photo-zipper101-types-of-zippers-2-400x400-1.jpg",
+        "https://ykkasia.com/wp-content/uploads/2022/03/photo-zipper101-types-of-zippers-2-400x400-1.jpg",
+        "https://ykkasia.com/wp-content/uploads/2022/03/photo-zipper101-types-of-zippers-2-400x400-1.jpg",
+        "https://ykkasia.com/wp-content/uploads/2022/03/photo-zipper101-types-of-zippers-2-400x400-1.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Zipper",
+      "description": "Types of Zippers | High-Quality and Durable Coil, Metal and VISLON®..",
+      "price": 99,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": " YKK Asia",
+      "category": "Basic_Garments_Accessories",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Interlining",
+      "description": "Interlining in apparel manufacture",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Fibre2Fashion",
+      "category": "Basic_Garments_Accessories",
+      "thumbnail": "https://static.fibre2fashion.com//articleresources/images/80/7928/interlining_small_Small.jpg",
+      "images": [
+        "https://static.fibre2fashion.com//articleresources/images/80/7928/interlining_small_Small.jpg",
+        "https://static.fibre2fashion.com//articleresources/images/80/7928/interlining_small_Small.jpg",
+        "https://static.fibre2fashion.com//articleresources/images/80/7928/interlining_small_Small.jpg",
+        "https://static.fibre2fashion.com//articleresources/images/80/7928/interlining_small_Small.jpg",
+        "https://static.fibre2fashion.com//articleresources/images/80/7928/interlining_small_Small.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Elastic",
+      "description": "20 mm Nylon Elastic Band",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "belastic",
+      "category": "Basic_Garments_Accessories",
+      "thumbnail": "https://5.imimg.com/data5/DZ/JB/KR/SELLER-15267430/colorful-font-b-elastic-b-font-font-b-bands-b-font-20mm-flat-sewing-font-b.jpg",
+      "images": [
+        "https://5.imimg.com/data5/DZ/JB/KR/SELLER-15267430/colorful-font-b-elastic-b-font-font-b-bands-b-font-20mm-flat-sewing-font-b.jpg",
+        "https://5.imimg.com/data5/DZ/JB/KR/SELLER-15267430/colorful-font-b-elastic-b-font-font-b-bands-b-font-20mm-flat-sewing-font-b.jpg",
+        "https://5.imimg.com/data5/DZ/JB/KR/SELLER-15267430/colorful-font-b-elastic-b-font-font-b-bands-b-font-20mm-flat-sewing-font-b.jpg",
+        "https://5.imimg.com/data5/DZ/JB/KR/SELLER-15267430/colorful-font-b-elastic-b-font-font-b-bands-b-font-20mm-flat-sewing-font-b.jpg",
+        "https://5.imimg.com/data5/DZ/JB/KR/SELLER-15267430/colorful-font-b-elastic-b-font-font-b-bands-b-font-20mm-flat-sewing-font-b.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Plastic button",
+      "description": "Craft Sewing Resin Circle Buttons",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "bdcract",
+      "category": "Basic_Garments_Accessories",
+      "thumbnail": "https://m.media-amazon.com/images/I/61+GHMu1PRL._AC_SL1000_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61+GHMu1PRL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61+GHMu1PRL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61+GHMu1PRL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61+GHMu1PRL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61+GHMu1PRL._AC_SL1000_.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Welted tape",
+      "description": "Types of Tapes Used in Sewing",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Otter Pattern",
+      "category": "Basic_Garments_Accessories",
+      "thumbnail": "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+      "images": [
+        "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+        "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+        "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+        "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+        "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg"
+      ]
+    }
+  
+  ]
