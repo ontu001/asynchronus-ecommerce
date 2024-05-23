@@ -15,16 +15,16 @@ class Product {
 
   const Product(
       {required this.brand,
-      required this.category,
-      required this.description,
-      required this.discountPercentage,
-      required this.id,
-      required this.images,
-      required this.price,
-      required this.rating,
-      required this.stock,
-      required this.thumbnail,
-      required this.title});
+        required this.category,
+        required this.description,
+        required this.discountPercentage,
+        required this.id,
+        required this.images,
+        required this.price,
+        required this.rating,
+        required this.stock,
+        required this.thumbnail,
+        required this.title});
 
   factory Product.fromSnapshot(
       DocumentSnapshot<Map<String, dynamic>> snapshot) {

@@ -7,8 +7,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 
-class FirestoreDB {
 
+
+
+class FirestoreDB {
   var box = GetStorage();
   FirebaseFirestore _firebaseFirestore = FirebaseFirestore.instance;
 

@@ -111,6 +111,27 @@
         "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
         "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg"
       ]
-    }
+    },
+
+
+  {
+    "id": 6,
+    "title": "Welted tape",
+    "description": "Types of Tapes Used in Sewing",
+    "price": 1749,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Otter Pattern",
+    "category": "Basic_Garments_Accessories",
+    "thumbnail": "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+    "images": [
+      "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+      "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+      "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+      "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg",
+      "https://uploads-ssl.webflow.com/60b9f189a912f3846326ef61/618a80e5827ef1c39824ab4e_Cover.jpg"
+    ]
+  }
   
   ]
